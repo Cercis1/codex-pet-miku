@@ -1,5 +1,7 @@
 # Codex Pet Miku
 
+初音未来
+
 An original teal twin-tail virtual singer pet for Codex Desktop, inspired by upbeat cyber-pop idol energy.
 
 This is a custom Codex pet package with a full animated spritesheet and manifest.
